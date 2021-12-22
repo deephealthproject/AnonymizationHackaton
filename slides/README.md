@@ -1,2 +1,2 @@
-PDF format slides from all presentations.
------------------------------------------
+PDF format slides from all presentations
+----------------------------------------
