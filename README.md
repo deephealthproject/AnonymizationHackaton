@@ -5,19 +5,19 @@ Two-days online event
 
 | Info | Detail |
 | ---: | :--- |
-| Organised by | [The DeepHealth project](https://deephealth-project.eu), an H2020 funded project with agreement number 825111 |
+| Organised by | Fisabio, as a member of the [The DeepHealth project](https://deephealth-project.eu) |
 | Dates | XXXX  |
 | Location | Only via XXX (link will be provided to accepted participants) |
 | Target audience | XXXXX. Experience with *Python* and any kind of *IPython* notebooks is recommended to all audiences types. |
 | Registration | Via XXXX |
-| Topics | Deep Learning, Computer Vision, Medical Imaging and High-Performance Computing |
+| Topics | Data anonymization, Machine Learning, Biomedical Imaging and Radiology Texts |
 
 
-The DeepHealth Winter School will include theoretical sessions (courses)
-about the above enumerated four topics, and lab sessions to show attendants
-how the software created in the DeepHealth project can be installed and used.
+The Biomedical Data Anonymization Hackathon will include theoretical sessions (courses)
+about different methodologies for data anonymization, lab demos of these methods
+and the re-identification exercises to be completed.
 
-Lab exercises will be guided by junior and senior researchers involved in the DeepHealth project.
+Researchers from Fisabio will guide all courses, demos and exercises.
 
 
 ## Involved partners
@@ -28,65 +28,43 @@ Lab exercises will be guided by junior and senior researchers involved in the De
 
 ## Contents in more detail
 
-### Master classes
+### Courses
 
-1. Doing Deep Learning with the **European Distributed Deep Learing Library** (EDDL), by Roberto Paredes (UPV)
+1. (Nombre del curso), by Silvia Nadal? (Fisabio)
 
-    - Two sessions: Monday and Tuesday, see schedule.
+    - Topics:
 
-2. Doing Computer Vision with the **European Computer Vision Library** (ECVL), by Constantino Grana (UNIMORE)
-    
-    - Two sessions: Monday and Tuesday, see schedule.
+2. De-identification of Radiological reports, by Adolfo López (Fisabio)
 
-3. Medical Imaging
+    - Topics: Medical Texts, Anonymization, Machine Learning, Natural Language Processing
 
-    1. Introduction to medical imaging: a constant learning experience by Marco Grangetto (UNITO)
+3. De-identification of DICOM metainformation, by Elena Oliver (Fisabio)
 
-    2. From H&E to pixels: digital pathology applications for colon cancer diagnosis by Luca Bertero (UNITO)
+    - Topics:
 
-    3. Neural Network-derived perfusion maps in patients with acute ischemic stroke by Federico D’Agata (UNITO) and Enzo Tartaglione (UNITO)
+4.De-identification of Biomedical Images, by José Manuel Saborit (Fisabio)
 
-    4. Lung cancer diagnosis by Daniele Perlo (CDSS), Riccardo Renzulli (CDSS) and Marco Grosso (CDSS)
+    - Topics:
 
 
-4. Medical Image manipulation
+### Lab Demos
 
-    1. DICOM & NifTI formats by Costantino Grana (UNIMORE)
+1. Dismed: De-Identification of Medical Texts
 
-    2. Deep Learning pipeline on histopathology images: detection of prostatic tumor, by Francesco Versaci (CRS4) and Giovanni Busonera (CRS4)
+2. 
 
-5. High-Performance Computing, by Eduardo Qui&ntilde;ones (BSC) and Iacopo Colonnelli (UNITO)
+3. 
 
-6. Heterogeneus Architectures in EDDL
-
-    1. GPU programming in the EDDL, by Roberto Paredes (UPV)
-
-    2. Reconfigurable Architectures Support in EDDL, by
-
-        - Jos&eacute; Flich (UPV) for FPGA,
-        - Enzo Tartaglione (UNITO) for pruning, and 
-        - Vicent Templier (CEA) for quantization methodologies
-
-7. Presentation of the other three ICT-11 projects, Friday morning
-
-    - ICT-11 (a) , by (Project Coordinator)
-    - ICT-11 (b) , by (Project Coordinator)
-    - ICT-11 (c) , by (Project Coordinator)
-
-
-### Lab sessions
-
-1. ECVL & EDDL environment for potential developer
-
-2. Installation and configuration of ECVL & EDDL
-
-3. Lab exercises on non-distributed mode using DeepHealth use cases
-
-4. Lab exercises on distributed mode using DeepHealth use cases and running on a HPC environment
+4. 
 
 
 [Here you can see and download the schedule](figures/schedule.pdf)
 
+### Exercises
+
+1. Re-identification of anonymized medical texts.
+
+2. Re-identification of Dicom tags.
 
 ## Involved People
 
@@ -99,8 +77,9 @@ Lab exercises will be guided by junior and senior researchers involved in the De
 
 |     |     |     |
 | --- | --- | --- |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Quim (Fisabio) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Jose (Fisabio) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Elena (Fisabio) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Silvia (Fisabio) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Adolfo (Fisabio) |
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Adolfo López (Fisabio) |
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Joaquin Montell (Fisabio) |
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Silvia Nadal (Fisabio) |
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Elena Oliver (Fisabio) |
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; José Manuel Saborit (Fisabio) |
+
