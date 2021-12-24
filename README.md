@@ -42,7 +42,7 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
     - Topics:
 
-4.De-identification of Biomedical Images, by José Manuel Saborit (Fisabio)
+4. De-identification of Biomedical Images, by José Manuel Saborit (Fisabio)
 
     - Topics:
 
