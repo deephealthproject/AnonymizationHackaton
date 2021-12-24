@@ -58,8 +58,6 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 4. 
 
 
-[Here you can see and download the schedule](figures/schedule.pdf)
-
 ### Exercises
 
 1. Re-identification of anonymized medical texts.
