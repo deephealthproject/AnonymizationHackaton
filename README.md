@@ -22,7 +22,7 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 ## Involved partners
 
-<img src=figures/partners.png width="80%" align="center" >
+<img src=figures/partners.png width="80%" align="center" > 
 
 ---
 
