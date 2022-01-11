@@ -40,7 +40,7 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 3. De-identification of DICOM metainformation, by Elena Oliver (Fisabio)
 
-    - Topics:
+    - Topics: Metainformation, De-identification, DICOM Standard, Confidentiality Profiles 
 
 4. De-identification of Biomedical Images, by José Manuel Saborit (Fisabio)
 
