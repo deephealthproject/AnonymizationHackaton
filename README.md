@@ -62,7 +62,7 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 1. Re-identification of anonymized medical texts.
 
-2. Re-identification of Dicom tags with CTP.
+2. De-identification of Dicom tags with CTP.
 
 ## Involved People
 
