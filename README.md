@@ -1,4 +1,4 @@
-# Biomedical Data Anonymization Hackathon
+# Biomedical Data Anonymization Hackathon - UMIB
 
 Two-days online event 
 
