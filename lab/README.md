@@ -6,5 +6,5 @@ Demos:
 -
 Exercises:
 -
--
+- Re-identification of Dicom tags with CTP.
 -
