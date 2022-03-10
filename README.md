@@ -30,9 +30,9 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 ### Courses
 
-1. (Nombre del curso), by Silvia Nadal? (Fisabio)
+1. Hackathon Presentation, by Silvia Nadal (Fisabio)
 
-    - Topics:
+    - Topics: Biomedical Images, Medical Texts, De-identification, Anonymization
 
 2. De-identification of Radiological reports, by Adolfo López (Fisabio)
 
