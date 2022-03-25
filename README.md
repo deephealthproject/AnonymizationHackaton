@@ -7,7 +7,7 @@ Two-days online event
 | ---: | :--- |
 | Organised by | Fisabio, as a member of the [The DeepHealth project](https://deephealth-project.eu) |
 | Dates | April 27 and 28 2022  |
-| Location | Only via XXX (link will be provided to accepted participants) |
+| Location | Only via Zoom (link will be provided to accepted participants) |
 | Target audience | XXXXX. Experience with *Python* and any kind of *IPython* notebooks is recommended to all audiences types. |
 | Registration | Via Eventbrite (link) |
 | Topics | Data anonymization, Machine Learning, Biomedical Imaging and Radiology Texts |
