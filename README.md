@@ -46,6 +46,10 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
     - Topics:
 
+5. De-identification of Structured Data
+    
+    - Topics:
+
 
 ### Lab Demos
 
@@ -53,9 +57,6 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 2. De-identification of Dicom tags with CTP.
 
-3. 
-
-4. 
 
 
 ### Exercises
@@ -76,8 +77,7 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 |     |     |     |
 | --- | --- | --- |
 | <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Adolfo López (Fisabio) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Joaquin Montell (Fisabio) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Silvia Nadal (Fisabio) |
 | <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Elena Oliver (Fisabio) |
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Joaquin Montell (Fisabio) |
 | <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; José Manuel Saborit (Fisabio) |
-
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Silvia Nadal (Fisabio) |
