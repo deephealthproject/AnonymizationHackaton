@@ -9,5 +9,5 @@ PDF format slides from all presentations
 
 4. [De-identification of Biomedical Images](https://github.com/BIMCV-CSUSP/AnonymizationHackaton/blob/main/slides/Hackathon_Course4.pdf)
 
-5. [De-identification of Structured Data]
+5. De-identification of Structured Data
     
