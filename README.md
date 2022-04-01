@@ -55,7 +55,7 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 1. Dismed: De-Identification of Medical Texts
 
-2. De-identification of Dicom tags with CTP.
+2. De-identification of Dicom tags with CTP
 
 
 
@@ -80,4 +80,5 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 | <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Elena Oliver (Fisabio) |
 | <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Joaquin Montell (Fisabio) |
 | <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; José Manuel Saborit (Fisabio) |
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Josep Fuster Rius ( ) |
 | <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Silvia Nadal (Fisabio) |
