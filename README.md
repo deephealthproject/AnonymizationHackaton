@@ -61,9 +61,9 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 ### Exercises
 
-1. De-identification of anonymized medical texts.
+1. Re-identification of anonymized medical texts
 
-2. De-identification of Dicom tags.
+2. Re-identification of BIMCV Covid19 dataset
 
 ## Involved People
 
