@@ -1,10 +1,9 @@
 Files available
 ---------------
 Demos:
-- Demo 1: DisMed: De-Identification of Medical Texts
-- Demo 2: De-identification of Dicom tags with CTP.
--
+1. [DisMed: De-Identification of Medical Texts](https://github.com/BIMCV-CSUSP/AnonymizationHackaton/blob/main/lab/HackathonDemo1.ipynb)
+2. [De-identification of Dicom tags with CTP](https://github.com/BIMCV-CSUSP/AnonymizationHackaton/blob/main/lab/exercise_ctp_EN.ipynb)
+
 Exercises:
--
-- 
--
+1. De-identification of anonymized medical texts.
+2. De-identification of Dicom tags.
