@@ -5,5 +5,5 @@ Demos:
 2. [De-identification of Dicom tags with CTP](https://github.com/BIMCV-CSUSP/AnonymizationHackaton/blob/main/lab/exercise_ctp_EN.ipynb)
 
 Exercises:
-1. Re-identification of anonymized medical texts
+1. Re-identification of DICOM tags
 2. Re-identification of BIMCV Covid19 dataset
