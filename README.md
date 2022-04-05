@@ -44,11 +44,11 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 4. De-identification of Biomedical Images, by José Manuel Saborit (Fisabio-UMIB)
 
-    - Topics:
+    - Topics: Medical image processing, face recognition.
 
 5. De-identification of Structured Data
     
-    - Topics:
+    - Topics: Relational databases, structured data.
 
 
 ### Lab Demos
