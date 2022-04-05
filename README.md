@@ -30,19 +30,19 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 ### Courses
 
-1. Hackathon Presentation, by Silvia Nadal (Fisabio)
+1. Hackathon Presentation, by Silvia Nadal (Fisabio-UMIB)
 
     - Topics: Biomedical Images, Medical Texts, De-identification, Anonymization
 
-2. De-identification of Radiological reports, by Adolfo López (Fisabio)
+2. De-identification of Radiological reports, by Adolfo López (Fisabio-UMIB)
 
     - Topics: Medical Texts, Anonymization, Machine Learning, Natural Language Processing
 
-3. De-identification of DICOM metainformation, by Elena Oliver (Fisabio)
+3. De-identification of DICOM metainformation, by Elena Oliver (Fisabio-UMIB)
 
     - Topics: Metainformation, De-identification, DICOM Standard, Confidentiality Profiles 
 
-4. De-identification of Biomedical Images, by José Manuel Saborit (Fisabio)
+4. De-identification of Biomedical Images, by José Manuel Saborit (Fisabio-UMIB)
 
     - Topics:
 
@@ -69,16 +69,16 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 |     |     |     |
 | --- | --- | --- |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Maria de la Iglesia Vayá (Fisabio) Head of BIMCV |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Marisa Caparrós (Fisabio) Fisabio Project Coordinator |
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Maria de la Iglesia Vayá (CSUiSP & Fisabio-UMIB) Head of BIMCV & UMIB lab|
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Marisa Caparrós (Fisabio-UMIB) Fisabio Project Coordinator |
 
 #### Alphabetical order from here
 
 |     |     |     |
 | --- | --- | --- |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Adolfo López (Fisabio) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Elena Oliver (Fisabio) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Joaquin Montell (Fisabio) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; José Manuel Saborit (Fisabio) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Josep Fuster Rius ( ) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Silvia Nadal (Fisabio) |
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Adolfo López (Fisabio-UMIB) |
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Elena Oliver (Fisabio-UMIB) |
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Joaquin Montell (Fisabio-UMIB) |
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; José Manuel Saborit (Fisabio-UMIB) |
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Josep Fuster Rius (CSUiSP & H. Francesc de Borja ) |
+| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Silvia Nadal (Fisabio-UMIB) |
