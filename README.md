@@ -30,11 +30,11 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 ### Courses
 
-1. Hackathon Presentation, by Silvia Nadal (Fisabio-UMIB)
+1. Hackathon Presentation, by María de la Iglesia (Fisabio-UMIB)
 
     - Topics: Biomedical Images, Medical Texts, De-identification, Anonymization
 
-2. De-identification of Radiological reports, by Adolfo López (Fisabio-UMIB)
+2. De-identification of Radiological reports, by Silvia Nadal (Fisabio-UMIB)
 
     - Topics: Medical Texts, Anonymization, Machine Learning, Natural Language Processing
 
