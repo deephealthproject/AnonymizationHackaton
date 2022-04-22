@@ -57,7 +57,7 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 2. De-identification of Dicom tags with CTP
 
-3. Facial anonymisation 
+3. Facial Anonymisation 
 
 
 
