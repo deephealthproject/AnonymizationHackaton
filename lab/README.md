@@ -5,5 +5,5 @@ Demos:
 2. [De-identification of Dicom tags with CTP](https://github.com/BIMCV-CSUSP/AnonymizationHackaton/blob/main/lab/HackathonDemo2.ipynb)
 
 Exercises:
-1. [Re-identification of DICOM tags](https://github.com/BIMCV-CSUSP/AnonymizationHackaton/blob/main/lab/HackathonExercise01.ipynb)
-2. Re-identification of BIMCV Covid19 dataset
+1. [Re-identification of DICOM tags](https://github.com/BIMCV-CSUSP/AnonymizationHackaton/blob/main/lab/HackathonExercises.ipynb)
+2. [Find Relevant Person](https://github.com/BIMCV-CSUSP/AnonymizationHackaton/blob/main/lab/HackathonExercises.ipynb)
