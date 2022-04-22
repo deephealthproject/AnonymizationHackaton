@@ -57,13 +57,15 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 2. De-identification of Dicom tags with CTP
 
+3. Facial anonymisation 
+
 
 
 ### Exercises
 
 1. Re-identification of DICOM tags
 
-2. Re-identification of BIMCV Covid19 dataset
+2. Find Relevant Person
 
 ## Involved People
 
