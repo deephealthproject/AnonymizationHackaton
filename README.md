@@ -67,18 +67,18 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 ## Involved People
 
-|     |     |     |
-| --- | --- | --- |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Maria de la Iglesia Vayá (CSUiSP & Fisabio-UMIB) Head of BIMCV & UMIB lab|
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Marisa Caparrós (Fisabio-UMIB) Fisabio Project Coordinator |
+|     |
+| --- |
+| &nbsp;&nbsp; Maria de la Iglesia Vayá (CSUiSP & Fisabio-UMIB) Head of BIMCV & UMIB lab|
+| &nbsp;&nbsp; Marisa Caparrós (Fisabio-UMIB) Fisabio Project Coordinator |
 
 #### Alphabetical order from here
 
-|     |     |     |
-| --- | --- | --- |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Adolfo López (Fisabio-UMIB) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Elena Oliver (Fisabio-UMIB) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Joaquin Montell (Fisabio-UMIB) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; José Manuel Saborit (Fisabio-UMIB) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Josep Fuster Rius (CSUiSP & H. Francesc de Borja ) |
-| <img src=people/empty-profile.png width=100> | | &nbsp;&nbsp; Silvia Nadal (Fisabio-UMIB) |
+|     |
+| --- |
+| &nbsp;&nbsp; Adolfo López (Fisabio-UMIB) |
+| &nbsp;&nbsp; Elena Oliver (Fisabio-UMIB) |
+| &nbsp;&nbsp; Joaquin Montell (Fisabio-UMIB) |
+| &nbsp;&nbsp; José Manuel Saborit (Fisabio-UMIB) |
+| &nbsp;&nbsp; Josep Fuster Rius (CSUiSP & H. Francesc de Borja ) |
+| &nbsp;&nbsp; Silvia Nadal (Fisabio-UMIB) |
