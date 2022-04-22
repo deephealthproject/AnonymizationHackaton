@@ -21,8 +21,8 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 
 ## Involved partners
+<img src=figures/deep.png align="center" width="200">  <img src=figures/logo_cipf_fisabio.png align="center" width="200">  <img src=figures/logobimcv.png align="center" width="200"> 
 
-<img src=figures/partners.png width="80%" align="center" > 
 
 ---
 
