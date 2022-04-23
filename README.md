@@ -46,7 +46,7 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
     - Topics: Medical image processing, face recognition.
 
-5. De-identification of Structured Data
+5. De-identification of Structured Data, by Josep Fuster Rius (H. Francesc de Borja)
     
     - Topics: Relational databases, structured data.
 
