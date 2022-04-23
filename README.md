@@ -30,7 +30,7 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
 ### Courses
 
-1. Hackathon Presentation, by María de la Iglesia (Fisabio-UMIB)
+1. Hackathon Presentation, by María de la Iglesia (CSUiSP & Fisabio-UMIB)
 
     - Topics: Biomedical Images, Medical Texts, De-identification, Anonymization
 
@@ -46,7 +46,7 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 
     - Topics: Medical image processing, face recognition.
 
-5. De-identification of Structured Data, by Josep Fuster Rius (H. Francesc de Borja)
+5. De-identification of Structured Data, by Josep Fuster Rius (CSUiSP & H. Francesc de Borja)
     
     - Topics: Relational databases, structured data.
 
