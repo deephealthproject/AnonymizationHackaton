@@ -73,6 +73,8 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 | --- |
 | &nbsp;&nbsp; Maria de la Iglesia Vayá (CSUiSP & Fisabio-UMIB) Head of BIMCV & UMIB lab|
 | &nbsp;&nbsp; Marisa Caparrós (Fisabio-UMIB) Fisabio Project Coordinator |
+| &nbsp;&nbsp; Adolfo Lopez (Fisabio-UMIB & CIPF-UBB)) |
+| &nbsp;&nbsp; Irene Rodriguez (Fisabio-UMIB & CIPF-UBB)) |
 
 #### Alphabetical order from here
 
@@ -84,3 +86,4 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 | &nbsp;&nbsp; José Manuel Saborit (Fisabio-UMIB) |
 | &nbsp;&nbsp; Josep Fuster Rius (CSUiSP & H. Francesc de Borja ) |
 | &nbsp;&nbsp; Silvia Nadal (Fisabio-UMIB) |
+
