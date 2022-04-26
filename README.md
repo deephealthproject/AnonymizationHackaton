@@ -8,7 +8,7 @@ Two-days online event
 | Organised by | Fisabio, as a member of the [The DeepHealth project](https://deephealth-project.eu) |
 | Dates | April 27 and 28 2022  |
 | Location | Only via Zoom (link will be provided to accepted participants) |
-| Target audience | XXXXX. Experience with *Python* and any kind of *IPython* notebooks is recommended to all audiences types. |
+| Target audience | Experience with *Python* and any kind of *IPython* notebooks is recommended to all audiences types. |
 | Registration | Via Eventbrite (link) |
 | Topics | Data anonymization, Machine Learning, Biomedical Imaging and Radiology Texts |
 
@@ -73,8 +73,8 @@ Researchers from Fisabio will guide all courses, demos and exercises.
 | --- |
 | &nbsp;&nbsp; Maria de la Iglesia Vayá (CSUiSP & Fisabio-UMIB) Head of BIMCV & UMIB lab|
 | &nbsp;&nbsp; Marisa Caparrós (Fisabio-UMIB) Fisabio Project Coordinator |
-| &nbsp;&nbsp; Adolfo Lopez (Fisabio-UMIB & CIPF-UBB)) |
-| &nbsp;&nbsp; Irene Rodriguez (Fisabio-UMIB & CIPF-UBB)) |
+| &nbsp;&nbsp; Adolfo López (Fisabio-UMIB & CIPF-UBB)) |
+| &nbsp;&nbsp; Irene Peréz Díez (Fisabio-UMIB & CIPF-UBB)) |
 
 #### Alphabetical order from here
 
