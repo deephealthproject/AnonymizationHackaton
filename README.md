@@ -1,4 +1,4 @@
-# Biomedical Data Anonymization Hackathon - UMIB
+# Biomedical Data Anonymization Hackathon - FISABIO
 
 Two-days online event 
 
